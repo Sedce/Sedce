@@ -1,10 +1,12 @@
 ## Hi There, I'm Cedez - @Sedce 
 
-I write code and other stuff. Connect with me:
 
+I write code and other stuff. 
 
-[![](https://www.shareicon.net/data/64x64/2017/06/30/888064_logo_512x512.png)](https://www.linkedin.com/in/cedez-marie-gulane-427199110/)
-[![](https://www.shareicon.net/data/64x64/2017/06/28/888047_logo_512x512.png)](https://www.instagram.com/sedisx/)
+- 🔭 I’m currently working as a .NET Developer at NCR. 
+- 🌱 I’m currently learning Node.JS
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love Horror Movies! 
 <!--
 **Sedce/Sedce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/cedez-marie-gulane-427199110/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/cedez-marie-gulane-427199110/">
+  </a>
+</p>
