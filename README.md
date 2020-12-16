@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi There, I'm Cedez - @Sedce 
 
+I write code and other stuff. Connect with me:
+
+
+[![](https://www.shareicon.net/data/64x64/2017/06/30/888064_logo_512x512.png)](https://www.linkedin.com/in/cedez-marie-gulane-427199110/)
+[![](https://www.shareicon.net/data/64x64/2017/06/28/888047_logo_512x512.png)](https://www.instagram.com/sedisx/)
 <!--
 **Sedce/Sedce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
