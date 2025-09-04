@@ -3,7 +3,6 @@
 
 I write code and other stuff. 
 
-- 🔭 I’m currently an international student at Northern Lights College
 - 🌱 I’m currently learning the React Framework
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love Horror Movies! 
